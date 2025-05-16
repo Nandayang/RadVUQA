@@ -1,6 +1,7 @@
-# RadVUQA
+# RadVUQA-Radiological Visual Understanding and Question Answering Dataset
 This is the official site of the study "Beyond the Hype: A dispassionate look at vision-language models in medical scenario"
-**Radiological Visual Understanding and Question Answering Dataset**
+
+**[Read the paper](https://arxiv.org/abs/2408.08704)**
 
 RadVUQA is a large-scale dataset for developing and evaluating vision–language models in medical imaging. It includes CT and MRI scans, segmentation masks, anatomical bounding boxes, and paired question–answer (QA) annotations.
 
