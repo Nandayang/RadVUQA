@@ -46,15 +46,16 @@ RadVUQA/
 └── OOD_test/
 ├── images/ (various imaging conditions)
 └── QA/ (out-of-distribution QA pairs)
+```
 
 - **images/**: Raw CT/MRI slices in DICOM or PNG.  
 - **masks/**: Segmentation masks for anatomical structures.  
 - **boxed_V2/**: Standard bounding box annotations.  
 - **boxed_easy_V2/**: Simplified bounding box annotations.  
-- **`*_Release_V1.json`**: Metadata files listing image IDs and target coordinates.  
-- **`QA_*_Release_V1.json`**: JSON files containing question–answer pairs.  
+- **`XX_Release_V1.json`**: Metadata files listing image IDs and target coordinates.  
+- **`QA_XX_Release_V1.json`**: JSON files containing question–answer pairs.  
 - **OOD_test/**: Out-of-distribution test set for robustness evaluation.
-```
+
 ---
 
 ## 🚀 Usage
